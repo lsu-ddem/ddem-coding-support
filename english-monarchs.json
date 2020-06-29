@@ -1,0 +1,332 @@
+[
+  {
+    "nm": "Egbert",
+    "yrs": "802-839",
+    "hse": "HOUSE OF WESSEX"
+  },
+  {
+    "nm": "Aethelwulf",
+    "yrs": "839-858",
+    "hse": "HOUSE OF WESSEX"
+  },
+  {
+    "nm": "Aethelbald",
+    "yrs": "858-860",
+    "hse": "HOUSE OF WESSEX"
+  },
+  {
+    "nm": "Aethelberht",
+    "yrs": "860-866",
+    "hse": "HOUSE OF WESSEX"
+  },
+  {
+    "nm": "Aethelred I",
+    "yrs": "866-871",
+    "hse": "HOUSE OF WESSEX"
+  },
+  {
+    "nm": "Alfred the Great",
+    "yrs": "871-899",
+    "hse": "HOUSE OF WESSEX"
+  },
+  {
+    "nm": "Edward the Elder",
+    "yrs": "899-925",
+    "hse": "HOUSE OF WESSEX"
+  },
+  {
+    "nm": "Athelstan",
+    "yrs": "925-939",
+    "hse": "HOUSE OF WESSEX"
+  },
+  {
+    "nm": "Edmund the Magnificent",
+    "yrs": "939-946",
+    "hse": "HOUSE OF WESSEX"
+  },
+  {
+    "nm": "Eadred",
+    "yrs": "946-955",
+    "hse": "HOUSE OF WESSEX"
+  },
+  {
+    "nm": "Eadwig (Edwy) All-Fair",
+    "yrs": "955-959",
+    "hse": "HOUSE OF WESSEX"
+  },
+  {
+    "nm": "Edgar the Peaceable",
+    "yrs": "959-975",
+    "hse": "HOUSE OF WESSEX"
+  },
+  {
+    "nm": "Edward the Martyr",
+    "yrs": "975-978",
+    "hse": "HOUSE OF WESSEX"
+  },
+  {
+    "nm": "Aethelred II (Ethelred the Unready)",
+    "yrs": "979-1013 and 1014-1016",
+    "hse": "HOUSE OF WESSEX"
+  },
+  {
+    "nm": "Edmund II (Ironside)",
+    "yrs": 1016,
+    "hse": "HOUSE OF WESSEX"
+  },
+  {
+    "nm": "Svein Forkbeard",
+    "yrs": 1014,
+    "hse": "DANISH"
+  },
+  {
+    "nm": "Cnut (Canute)",
+    "yrs": "1016-1035",
+    "hse": "DANISH"
+  },
+  {
+    "nm": "Harold I",
+    "yrs": "1035-1040",
+    "hse": "DANISH"
+  },
+  {
+    "nm": "Hardicnut",
+    "yrs": "1040-1042",
+    "hse": "DANISH"
+  },
+  {
+    "nm": "Edward (the Confessor)",
+    "yrs": "1042-1066",
+    "hse": "SAXONS"
+  },
+  {
+    "nm": "Harold II",
+    "yrs": 1066,
+    "hse": "SAXONS"
+  },
+  {
+    "nm": "William I",
+    "yrs": "1066-1087",
+    "hse": "NORMANS"
+  },
+  {
+    "nm": "William II",
+    "yrs": "1087-1100",
+    "hse": "NORMANS"
+  },
+  {
+    "nm": "Henry I",
+    "yrs": "1100-1135",
+    "hse": "NORMANS"
+  },
+  {
+    "nm": "Stephen",
+    "yrs": "1135-1154",
+    "hse": "NORMANS"
+  },
+  {
+    "nm": "Empress Matilda (Queen Maud)",
+    "yrs": 1141,
+    "hse": "NORMANS"
+  },
+  {
+    "nm": "Henry II",
+    "yrs": "1154-1189",
+    "hse": "PLANTAGENETS"
+  },
+  {
+    "nm": "Richard I",
+    "yrs": "1189-1199",
+    "hse": "PLANTAGENETS"
+  },
+  {
+    "nm": "John",
+    "yrs": "1199-1216",
+    "hse": "PLANTAGENETS"
+  },
+  {
+    "nm": "Henry III",
+    "yrs": "1216-1272",
+    "hse": "PLANTAGENETS"
+  },
+  {
+    "nm": "Edward I",
+    "yrs": "1272-1307",
+    "hse": "PLANTAGENETS"
+  },
+  {
+    "nm": "Edward II",
+    "yrs": "1307-1327",
+    "hse": "PLANTAGENETS"
+  },
+  {
+    "nm": "Edward III",
+    "yrs": "1327-1377",
+    "hse": "PLANTAGENETS"
+  },
+  {
+    "nm": "Richard II",
+    "yrs": "1377-1399",
+    "hse": "PLANTAGENETS"
+  },
+  {
+    "nm": "Henry IV",
+    "yrs": "1399-1413",
+    "hse": "HOUSE OF LANCASTER"
+  },
+  {
+    "nm": "Henry V",
+    "yrs": "1413-1422",
+    "hse": "HOUSE OF LANCASTER"
+  },
+  {
+    "nm": "Henry VI",
+    "yrs": "1422-1461",
+    "hse": "HOUSE OF LANCASTER"
+  },
+  {
+    "nm": "Edward IV",
+    "yrs": "1461-1483",
+    "hse": "HOUSE OF YORK"
+  },
+  {
+    "nm": "Edward V",
+    "yrs": 1483,
+    "hse": "HOUSE OF YORK"
+  },
+  {
+    "nm": "Richard III",
+    "yrs": "1483-1485",
+    "hse": "HOUSE OF YORK"
+  },
+  {
+    "nm": "Henry VII",
+    "yrs": "1485-1509",
+    "hse": "TUDORS"
+  },
+  {
+    "nm": "Henry VIII",
+    "yrs": "1509-1547",
+    "hse": "TUDORS"
+  },
+  {
+    "nm": "Edward VI",
+    "yrs": "1547-1553",
+    "hse": "TUDORS"
+  },
+  {
+    "nm": "Jane Grey",
+    "yrs": 1553,
+    "hse": "TUDORS"
+  },
+  {
+    "nm": "Mary I",
+    "yrs": "1553-1558",
+    "hse": "TUDORS"
+  },
+  {
+    "nm": "Elizabeth I",
+    "yrs": "1558-1603",
+    "hse": "TUDORS"
+  },
+  {
+    "nm": "James I",
+    "yrs": "1603-1625",
+    "hse": "STUARTS"
+  },
+  {
+    "nm": "Charles I",
+    "yrs": "1625-1649",
+    "hse": "STUARTS"
+  },
+  {
+    "nm": "Oliver Cromwell",
+    "yrs": "1649-1658",
+    "hse": "COMMONWEALTH"
+  },
+  {
+    "nm": "Richard Cromwell",
+    "yrs": "1658-1659",
+    "hse": "COMMONWEALTH"
+  },
+  {
+    "nm": "Charles II",
+    "yrs": "1660-1685",
+    "hse": "STUARTS (restored)"
+  },
+  {
+    "nm": "James II",
+    "yrs": "1685-1688",
+    "hse": "STUARTS (restored)"
+  },
+  {
+    "nm": "William III",
+    "yrs": "1689-1702",
+    "hse": "STUARTS (restored)"
+  },
+  {
+    "nm": "Mary II",
+    "yrs": "1689-1694",
+    "hse": "STUARTS (restored)"
+  },
+  {
+    "nm": "Anne",
+    "yrs": "1702-1714",
+    "hse": "STUARTS (restored)"
+  },
+  {
+    "nm": "George I",
+    "yrs": "1714-1727",
+    "hse": "HOUSE OF HANOVER"
+  },
+  {
+    "nm": "George II",
+    "yrs": "1727-1760",
+    "hse": "HOUSE OF HANOVER"
+  },
+  {
+    "nm": "George III",
+    "yrs": "1760-1820",
+    "hse": "HOUSE OF HANOVER"
+  },
+  {
+    "nm": "George IV",
+    "yrs": "1820-1830",
+    "hse": "HOUSE OF HANOVER"
+  },
+  {
+    "nm": "William IV",
+    "yrs": "1830-1837",
+    "hse": "HOUSE OF HANOVER"
+  },
+  {
+    "nm": "Victoria",
+    "yrs": "1837-1901",
+    "hse": "HOUSE OF HANOVER"
+  },
+  {
+    "nm": "Edward VII",
+    "yrs": "1901-1910",
+    "hse": "SAXE-COBURG-GOTHA"
+  },
+  {
+    "nm": "George V",
+    "yrs": "1910-1936",
+    "hse": "WINDSOR"
+  },
+  {
+    "nm": "Edward VIII",
+    "yrs": "1936-1936",
+    "hse": "WINDSOR"
+  },
+  {
+    "nm": "George VI",
+    "yrs": "1936-1952",
+    "hse": "WINDSOR"
+  },
+  {
+    "nm": "Elizabeth II",
+    "yrs": "1952 - present",
+    "hse": "WINDSOR"
+  }
+]
