@@ -7,7 +7,9 @@ Support files, JSON, miscellany for the Digital Design &amp; Emergent Media LSU 
 
 Some JSON files are hosted here to make sure that they are accessible by schools using the DDEM curriculum. If sourced from a publicly available source, they are listed here.
 
-nobel-prizes.json is a duplicate of the [Nobel Prize.org api](http://api.nobelprize.org/v1/prize.json)
+- nobel-prizes.json is a duplicate of the [Nobel Prize.org api](http://api.nobelprize.org/v1/prize.json)
+- emojis.json is from the [github api](https://api.github.com/emojis)
+- us-presidents.json is from github user [hitch17](https://github.com/hitch17/sample-data/blob/master/presidents.json)
+- 
 
-emojis.json is from the [github api](https://api.github.com/emojis)
 

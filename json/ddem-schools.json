@@ -1,0 +1,26 @@
+[
+  {
+    "school": "Lee Magnet High School",
+    "mascot": "",
+    "city": "Baton Rouge",
+    "district": "EBR Schools",
+    "parish": "East Baton Rouge",
+    "location": {
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    "courses": ["Digital Storytelling","Programming Digital Media", "Coding for the Web"]
+  },
+  {
+    "school": "",
+    "mascot": "",
+    "city": "Baton Rouge",
+    "district": "EBR Schools",
+    "parish": "East Baton Rouge",
+    "location": {
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    "courses": ["Digital Storytelling","Programming Digital Media", "Coding for the Web"]
+  }
+]
