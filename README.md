@@ -10,6 +10,7 @@ Some JSON files are hosted here to make sure that they are accessible by schools
 - nobel-prizes.json is a duplicate of the [Nobel Prize.org api](http://api.nobelprize.org/v1/prize.json)
 - emojis.json is from the [github api](https://api.github.com/emojis)
 - us-presidents.json is from github user [hitch17](https://github.com/hitch17/sample-data/blob/master/presidents.json)
-- 
+- planets.json if rom the github user [dariusk](https://github.com/dariusk/corpora/blob/master/data/science/planets.json)
+
 
 
