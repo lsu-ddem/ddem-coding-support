@@ -1,6 +1,16 @@
 # ddem-coding-support
 Support files, JSON, miscellany for the Digital Design &amp; Emergent Media LSU Pathways Curriculum
 
+__Types of Files Include__
+- audio
+- css
+- html
+- images
+- json
+- libraries
+- scripts
+- text
+- video
 
 
 ## JSON Sources
