@@ -10,7 +10,8 @@
 ############################
 
 # Name of website
-# title: LSU Digital Design Showcase
+name: LSU Digital Design Showcase
+title: null
 
 # Your name to show in the footer
 author: Jesse Allison
