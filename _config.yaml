@@ -1,0 +1,48 @@
+# Default Jekyll configuration file
+
+title: DDEM Pathways
+description: >-
+  Welcome to my Jekyll site! This is a simple, customizable static site generator.
+baseurl: "" # Base URL for the site (e.g., /blog)
+url: "https://ddem.emdm.io" # Your site's URL
+
+# Directory settings
+source: .
+destination: ./_site
+collections_dir: collections
+plugins_dir: _plugins
+
+# Build settings
+markdown: kramdown
+theme: minima
+permalink: pretty
+paginate: 5
+auto_ids: false
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files and directories from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle
+  - vendor/cache
+  - vendor/gems
+  - vendor/ruby
+
+# Defaults for front matter
+defaults:
+  - scope:
+      path: "" # An empty string means all files
+    values:
+      layout: default
+      author: Your Name
+
+# Markdown settings
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
